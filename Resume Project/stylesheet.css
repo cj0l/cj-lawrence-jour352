@@ -1,0 +1,73 @@
+body{
+    background-color: #211F1F;
+    color:white;
+}
+#red{
+    background-color:#B71D1D ;
+    width: 50%
+}
+.col {
+    text-align: center;
+}
+.row{
+    padding-bottom: 50px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    text-align: center;
+    background-color:#B71D1D ;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+p {
+    text-align: left;
+}
+h3{
+    text-align: center;
+}
+#icon{
+    height: 4em;
+    background-color:#B71D1D ;
+}
+.jobtitle {
+    font-weight:400;
+    font-size: 1.75em;
+
+}
+
+.organization{
+    font-weight:400;
+    font-size: 1.25em;
+
+}
+
+.date {
+    font-weight:400;
+    font-style: italic;
+    font-size: 1em;
+    margin-top: 2px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.description {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#social{
+    height: 7em;
+}
+@media only screen and (max-width: 500px) {
+    h2{
+        padding-top: 50px;
+     }
+     .btn {
+        background-color: black;
+     }
+	
+}
