@@ -1,0 +1,105 @@
+h1{
+    font-family: 'Source Serif Pro', serif;
+    font-weight:700;
+    font-size: 3em;
+    text-align: center;
+    
+}
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
+h3{
+    font-family: 'Source Serif Pro', serif;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgray;
+    line-height: 200%;
+}
+p{
+    font-family: 'Source Serif Pro', serif;
+    line-height: 180%;
+    font-size:larger;
+}
+.sectionhead{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: left;
+    font-weight: 700;
+}
+
+.row{
+    padding-bottom: 35px;
+}
+#center{
+text-align:center;
+}
+figcaption{
+    font-family: 'Source Serif Pro', serif;
+    font-size:smaller;
+}
+.col{
+text-align: center;
+}
+
+
+.bkgd2{
+background-color:black;
+color:white;
+height: 100%;
+width: 100%;
+
+}
+.banner{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.url1{
+    color:white;
+    text-decoration: none;
+}
+body {
+    margin: 0;
+    height: 100%;
+  }
+.center{
+    text-align: center;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight:lighter;
+    text-align: left;
+
+}
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight:lighter;
+    text-align: right;
+
+}
+.logo{
+    text-align:center;
+}
+blockquote{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+
+}
+.quote1{
+text-align: left;
+font-size: 45px;
+font-family: 'Source Serif Pro', serif;
+    
+}
+.quote2{
+    text-align: right;
+    font-size: 45px;
+    font-family: 'Source Serif Pro', serif;
+    
+}
